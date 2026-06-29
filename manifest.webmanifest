@@ -1,0 +1,15 @@
+{
+  "name": "Compras Perni",
+  "short_name": "Compras",
+  "start_url": "https://script.google.com/macros/s/AKfycbzw4pdQfvJpH-spUubRoubDwLf8LtZoA-2N-eCnXPTikn73_ZdmshLV3BvEkvaBU1Cy/exec",
+  "display": "standalone",
+  "background_color": "#F36F87",
+  "theme_color": "#F36F87",
+  "icons": [
+    {
+      "src": "https://raulhre95-wq.github.io/perni-app-assets/icono%20app%20compras.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
